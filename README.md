@@ -48,3 +48,7 @@ python HW2/tests.py
 2. Edit the `problems.py` file in that folder to implement your solutions. In some HWs, there may be multiple problem files of the format `problems_*.py`.
 3. Run the `tests.py` script frequently to verify your code. In some HWs, there may be multiple test files of the format `tests_*.py`. In some HWs, there may be no tests. Please read the `README.md` inside the homework folder for case specific instructions.
 4. Repeat until all tests pass, or until you finish the desired objective!
+
+## Contributing Solutions
+
+The `student_solutions` folder contains examples of student solutions. Solution contributions are welcome from everyone! Please see `student_solutions/README.md` for instructions on how to contribute.
